@@ -6,13 +6,14 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. Idea stolen from
 [jbranchaud/til](https://github.com/jbranchaud/til).
 
-_3 TILs and counting..._
+_4 TILs and counting..._
 
 ---
 
 ### Categories
 
 * [Tmux](#tmux)
+* [Unix](#unix)
 * [Vim](#vim)
 
 ---
@@ -20,6 +21,10 @@ _3 TILs and counting..._
 ### Tmux
 
 - [Maximize Current Pane](tmux/maximize-current-pane.md)
+
+### Unix
+
+- [Add A User To Sudoers](unix/add-user-to-sudoers.md)
 
 ### Vim
 
