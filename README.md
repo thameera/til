@@ -6,13 +6,14 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. Idea stolen from
 [jbranchaud/til](https://github.com/jbranchaud/til).
 
-_6 TILs and counting..._
+_7 TILs and counting..._
 
 ---
 
 ### Categories
 
 * [Chrome](#chrome)
+* [Mac](#mac)
 * [Tmux](#tmux)
 * [Unix](#unix)
 * [Vim](#vim)
@@ -22,6 +23,10 @@ _6 TILs and counting..._
 ### Chrome
 
 - [Undo Close Window](chrome/undo-close-window.md)
+
+### Mac
+
+- [Cleanup Homebrew Cache](mac/cleanup-homebrew-cache.md)
 
 ### Tmux
 
