@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. Idea stolen from
 [jbranchaud/til](https://github.com/jbranchaud/til).
 
-_7 TILs and counting..._
+_8 TILs and counting..._
 
 ---
 
@@ -35,6 +35,7 @@ _7 TILs and counting..._
 ### Unix
 
 - [Add A User To Sudoers](unix/add-user-to-sudoers.md)
+- [Change Field Separator In AWK](unix/change_field_separator_in_awk.md)
 - [Find If System Is 32-bit Or 64-bit](unix/find-if-32-bit-or-64-bit.md)
 
 ### Vim
