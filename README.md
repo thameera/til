@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. Idea stolen from
 [jbranchaud/til](https://github.com/jbranchaud/til).
 
-_8 TILs and counting..._
+_9 TILs and counting..._
 
 ---
 
@@ -27,6 +27,7 @@ _8 TILs and counting..._
 ### Mac
 
 - [Cleanup Homebrew Cache](mac/cleanup-homebrew-cache.md)
+- [Delete Entire Word While Typing](mac/delete-entire-word-while-typing.md)
 
 ### Tmux
 
