@@ -20,7 +20,12 @@ function writeSeparator {
 }
 
 function uppercaseFirstLetter {
-    echo -n "$(tr '[:lower:]' '[:upper:]' <<< ${1:0:1})${1:1}"
+    if [[ $1 == 'iterm2' ]]; then
+        # Hack for iTerm2
+        echo -n "iTerm2"
+    else
+        echo -n "$(tr '[:lower:]' '[:upper:]' <<< ${1:0:1})${1:1}"
+    fi
 }
 
 writeln "# TIL"

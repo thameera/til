@@ -6,13 +6,14 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. Idea stolen from
 [jbranchaud/til](https://github.com/jbranchaud/til).
 
-_10 TILs and counting..._
+_11 TILs and counting..._
 
 ---
 
 ### Categories
 
 * [Chrome](#chrome)
+* [iTerm2](#iterm2)
 * [Mac](#mac)
 * [Tmux](#tmux)
 * [Unix](#unix)
@@ -23,6 +24,10 @@ _10 TILs and counting..._
 ### Chrome
 
 - [Undo Close Window](chrome/undo-close-window.md)
+
+### iTerm2
+
+- [Open links](iterm2/open-links.md)
 
 ### Mac
 
