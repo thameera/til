@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. Idea stolen from
 [jbranchaud/til](https://github.com/jbranchaud/til).
 
-_13 TILs and counting..._
+_14 TILs and counting..._
 
 ---
 
@@ -54,5 +54,6 @@ _13 TILs and counting..._
 ### Vim
 
 - [Converting DOS Line Endings to Unix](vim/converting-dos-line-endings-to-unix.md)
+- [Replace All Occurrences of Selected Text](vim/replace-occurrences-of-selected-text.md)
 - [Show ASCII Value Of A Character](vim/show-ascii-value-of-character.md)
 
