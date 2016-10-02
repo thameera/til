@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. Idea stolen from
 [jbranchaud/til](https://github.com/jbranchaud/til).
 
-_15 TILs and counting..._
+_16 TILs and counting..._
 
 ---
 
@@ -51,6 +51,7 @@ _15 TILs and counting..._
 - [Find If System Is 32-bit Or 64-bit](unix/find-if-32-bit-or-64-bit.md)
 - [Ignore Grep Process In Process List](unix/ignore-grep-process-in-process-list.md)
 - [Print Unix Time](unix/print-unix-time.md)
+- [tail -f inside less](unix/tail-f-inside-less.md)
 
 ### Vim
 
